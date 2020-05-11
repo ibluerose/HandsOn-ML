@@ -1,0 +1,14 @@
+name: handson-ml
+
+dependencies:
+- python
+- numpy
+- pandas
+- matplotlib
+- ipython
+- jupyter
+- jupyterlab
+- nb_conda
+- scipy
+- scikit-learn
+
